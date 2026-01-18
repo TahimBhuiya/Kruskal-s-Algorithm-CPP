@@ -17,7 +17,7 @@ public:
     // Initialize disjoint set
     DisjointSet(int n) {
         parent.resize(n);
-        
+        rank.resize(n, 0);
 
 
     }
