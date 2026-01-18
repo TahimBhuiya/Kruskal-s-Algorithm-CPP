@@ -10,7 +10,7 @@ struct Edge {
 };
 
 // Disjoint Set (Union-Find) class
-
+class DisjointSet {
     
 
 
