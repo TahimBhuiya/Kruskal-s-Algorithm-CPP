@@ -14,5 +14,5 @@ class DisjointSet {
     vector<int> parent, rank;
 
 public:
-    
+    // Initialize disjoint set
     
