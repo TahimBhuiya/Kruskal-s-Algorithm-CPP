@@ -13,6 +13,6 @@ struct Edge {
 class DisjointSet {
     vector<int> parent, rank;
 
-
+public:
     
     
