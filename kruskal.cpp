@@ -8,3 +8,11 @@ using namespace std;
 struct Edge {
     int src, dest, weight;
 };
+
+// Disjoint Set (Union-Find) class
+
+    
+
+
+    
+    
