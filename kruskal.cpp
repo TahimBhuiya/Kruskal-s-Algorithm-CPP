@@ -16,7 +16,7 @@ class DisjointSet {
 public:
     // Initialize disjoint set
     DisjointSet(int n) {
-        
+        parent.resize(n);
         
 
 
