@@ -11,7 +11,7 @@ struct Edge {
 
 // Disjoint Set (Union-Find) class
 class DisjointSet {
-    
+    vector<int> parent, rank;
 
 
     
