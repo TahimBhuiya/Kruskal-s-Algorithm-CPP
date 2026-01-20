@@ -25,7 +25,7 @@ public:
 
     // Find the parent of a node with path compression
     int find(int x) {
-        
+        if (parent[x] != x)
             
        
     }
