@@ -23,7 +23,7 @@ public:
             parent[i] = i;
     }
 
-    
+    // Find the parent of a node with path compression
     
 
   
