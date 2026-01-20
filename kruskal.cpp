@@ -30,4 +30,4 @@ public:
         return parent[x];
     }
 
-  
+    // Union two sets
