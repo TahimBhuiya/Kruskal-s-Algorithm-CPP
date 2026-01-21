@@ -39,7 +39,7 @@ public:
             if (rank[rootX] < rank[rootY])
                 parent[rootX] = rootY;
             else if (rank[rootX] > rank[rootY])
-                
+                parent[rootY] = rootX;
             
         }
     }
