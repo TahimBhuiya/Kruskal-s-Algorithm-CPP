@@ -53,4 +53,4 @@ bool compareEdges(Edge a, Edge b) {
     return a.weight < b.weight;
 }
 
-
+// Kruskal's Algorithm function
