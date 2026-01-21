@@ -41,7 +41,7 @@ public:
             else if (rank[rootX] > rank[rootY])
                 parent[rootY] = rootX;
             else {
-                
+                parent[rootY] = rootX;
                 
             }
         }
