@@ -35,5 +35,12 @@ public:
         int rootX = find(x);
         int rootY = find(y);
 
-       
+        if (rootX != rootY) {
+           
+                
+            
+                
+            
+        }
+    }
 };
