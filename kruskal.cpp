@@ -42,7 +42,7 @@ public:
                 parent[rootY] = rootX;
             else {
                 parent[rootY] = rootX;
-                
+                rank[rootX]++;
             }
         }
     }
