@@ -36,7 +36,7 @@ public:
         int rootY = find(y);
 
         if (rootX != rootY) {
-           
+            if (rank[rootX] < rank[rootY])
                 
             
                 
