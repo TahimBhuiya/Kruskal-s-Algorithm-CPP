@@ -33,7 +33,7 @@ public:
     // Union two sets
     void unite(int x, int y) {
         int rootX = find(x);
-        
+        int rootY = find(y);
 
        
 };
