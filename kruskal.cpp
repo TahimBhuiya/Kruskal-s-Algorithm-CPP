@@ -40,7 +40,15 @@ public:
                 parent[rootX] = rootY;
             else if (rank[rootX] > rank[rootY])
                 parent[rootY] = rootX;
-            
+            else {
+                
+                
+            }
         }
     }
 };
+
+
+
+
+
