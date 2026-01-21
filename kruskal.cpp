@@ -38,7 +38,7 @@ public:
         if (rootX != rootY) {
             if (rank[rootX] < rank[rootY])
                 parent[rootX] = rootY;
-            
+            else if (rank[rootX] > rank[rootY])
                 
             
         }
