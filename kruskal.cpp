@@ -64,4 +64,4 @@ void kruskalMST(vector<Edge>& edges, int V) {
     // Process edges one by one
     for (Edge e : edges) {
         int u = e.src;
-        }}
+        int v = e.dest;}}
