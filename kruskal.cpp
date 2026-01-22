@@ -59,7 +59,7 @@ void kruskalMST(vector<Edge>& edges, int V) {
     sort(edges.begin(), edges.end(), compareEdges);
 
     DisjointSet ds(V);
-   
+    vector<Edge> mst;
 
     
    }
