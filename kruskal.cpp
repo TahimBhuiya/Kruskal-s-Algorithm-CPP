@@ -56,7 +56,7 @@ bool compareEdges(Edge a, Edge b) {
 // Kruskal's Algorithm function
 void kruskalMST(vector<Edge>& edges, int V) {
     // Sort edges by increasing weight
-   
+    sort(edges.begin(), edges.end(), compareEdges);
 
     
    
