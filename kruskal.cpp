@@ -61,5 +61,5 @@ void kruskalMST(vector<Edge>& edges, int V) {
     DisjointSet ds(V);
     vector<Edge> mst;
 
-    
+    // Process edges one by one
    }
