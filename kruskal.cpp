@@ -73,7 +73,7 @@ void kruskalMST(vector<Edge>& edges, int V) {
         }
     }
 
-    
+    // Print the Minimum Spanning Tree
     
    
 
