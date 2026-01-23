@@ -77,4 +77,4 @@ void kruskalMST(vector<Edge>& edges, int V) {
     cout << "Edges in the Minimum Spanning Tree:\n";
     int totalWeight = 0;
 
-    }
+    for (Edge e : mst) {}}
