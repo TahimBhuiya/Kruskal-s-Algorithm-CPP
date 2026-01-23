@@ -69,7 +69,7 @@ void kruskalMST(vector<Edge>& edges, int V) {
         // Check if adding this edge forms a cycle
         if (ds.find(u) != ds.find(v)) {
             mst.push_back(e);
-            
+            ds.unite(u, v);
         }
     }
 
