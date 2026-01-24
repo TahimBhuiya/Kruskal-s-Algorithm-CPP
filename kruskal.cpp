@@ -79,7 +79,7 @@ void kruskalMST(vector<Edge>& edges, int V) {
 
     for (Edge e : mst) {
         cout << e.src << " - " << e.dest << " : " << e.weight << endl;
-        
+        totalWeight += e.weight;
     }
 
     
