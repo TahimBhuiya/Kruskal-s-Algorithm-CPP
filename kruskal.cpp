@@ -82,7 +82,7 @@ void kruskalMST(vector<Edge>& edges, int V) {
         totalWeight += e.weight;
     }
 
-    
+    cout << "Total weight of MST: " << totalWeight << endl;
 }
 
 
