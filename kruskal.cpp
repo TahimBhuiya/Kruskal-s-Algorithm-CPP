@@ -89,3 +89,4 @@ void kruskalMST(vector<Edge>& edges, int V) {
 int main() {
     int V = 4;  // Number of vertices
 
+    vector<Edge> edges = {}}
