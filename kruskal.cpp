@@ -87,5 +87,5 @@ void kruskalMST(vector<Edge>& edges, int V) {
 
 // Main function
 int main() {
-     
+    int V = 4;  
 
