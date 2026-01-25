@@ -99,5 +99,5 @@ int main() {
 
     kruskalMST(edges, V);
 
-    
+    return 0;
 }
