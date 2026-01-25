@@ -97,7 +97,7 @@ int main() {
         {2, 3, 4}
     };
 
-    
+    kruskalMST(edges, V);
 
     
 }
