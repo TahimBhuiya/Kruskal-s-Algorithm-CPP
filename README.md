@@ -9,3 +9,4 @@ Kruskal’s algorithm builds the MST by sorting all edges by weight and adding t
 Steps Kruskal’s Algorithm follows:
 
 1. Sort all edges by increasing weight.
+2. Pick the smallest edge that does not form a cycle.
