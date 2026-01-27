@@ -19,3 +19,4 @@ Steps Kruskal’s Algorithm follows:
 
 - **Greedy Algorithm Approach**
 - **Finds Minimum Spanning Tree (MST)**
+- **Cycle Detection Using Union-Find**
