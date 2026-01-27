@@ -12,3 +12,5 @@ Steps Kruskal’s Algorithm follows:
 2. Pick the smallest edge that does not form a cycle.
 3. Add the edge to the MST.
 4. Repeat until the MST contains (V − 1) edges.
+
+---
