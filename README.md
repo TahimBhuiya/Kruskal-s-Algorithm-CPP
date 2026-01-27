@@ -16,3 +16,5 @@ Steps Kruskal’s Algorithm follows:
 ---
 
 ## 🔧 Features
+
+- **Greedy Algorithm Approach**
