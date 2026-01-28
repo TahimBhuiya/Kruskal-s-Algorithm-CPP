@@ -30,7 +30,7 @@ Steps Kruskal’s Algorithm follows:
 **Graph Structure (edge list format):**
 
 ```
-
+0 - 1 (10)
 
 
 ```
