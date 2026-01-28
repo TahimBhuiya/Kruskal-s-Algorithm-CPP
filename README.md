@@ -31,6 +31,6 @@ Steps Kruskal’s Algorithm follows:
 
 ```
 0 - 1 (10)
-
+0 - 2 (6)
 
 ```
