@@ -24,3 +24,5 @@ Steps Kruskal’s Algorithm follows:
 - **Fully Commented Code** for clarity and learning
 
 ---
+
+## 📋 Example Run
