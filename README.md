@@ -21,3 +21,4 @@ Steps Kruskal’s Algorithm follows:
 - **Finds Minimum Spanning Tree (MST)**
 - **Cycle Detection Using Union-Find**
 - **Edge List Graph Representation**
+- **Fully Commented Code** for clarity and learning
