@@ -26,3 +26,5 @@ Steps Kruskal’s Algorithm follows:
 ---
 
 ## 📋 Example Run
+
+**Graph Structure (edge list format):**
