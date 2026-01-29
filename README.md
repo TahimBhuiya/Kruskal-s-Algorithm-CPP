@@ -35,11 +35,4 @@ Steps Kruskal’s Algorithm follows:
 0 - 3 (5)
 1 - 3 (15)
 2 - 3 (4)
-
-
-
-
-
-
-
 ```
