@@ -33,4 +33,13 @@ Steps Kruskal’s Algorithm follows:
 0 - 1 (10)
 0 - 2 (6)
 0 - 3 (5)
+1 - 3 (15)
+
+
+
+
+
+
+
+
 ```
