@@ -36,3 +36,5 @@ Steps Kruskal’s Algorithm follows:
 1 - 3 (15)
 2 - 3 (4)
 ```
+
+**Output (edges in the Minimum Spanning Tree):**
