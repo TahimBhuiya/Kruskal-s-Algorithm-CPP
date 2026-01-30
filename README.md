@@ -49,3 +49,5 @@ Total weight of MST: 19
 ---
 
 ## ⚙ How It Works
+
+1. **Sort All Edges**
