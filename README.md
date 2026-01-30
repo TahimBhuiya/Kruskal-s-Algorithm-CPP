@@ -43,4 +43,15 @@ Steps Kruskal’s Algorithm follows:
 2 - 3   4
 0 - 3   5
 0 - 1   10
+Total weight of MST: 19
+
+
+
+
+
+
+
+
+
+
 ```
