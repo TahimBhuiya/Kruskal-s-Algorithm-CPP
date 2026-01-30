@@ -54,3 +54,4 @@ Total weight of MST: 19
    - Arrange edges in increasing order of weight.
 
 2. **Select Edges Greedily**
+   - Add the smallest edge that does not form a cycle.
