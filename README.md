@@ -47,3 +47,5 @@ Total weight of MST: 19
 ```
 
 ---
+
+## ⚙ How It Works
