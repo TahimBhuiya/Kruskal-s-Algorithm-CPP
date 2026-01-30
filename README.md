@@ -52,3 +52,5 @@ Total weight of MST: 19
 
 1. **Sort All Edges**
    - Arrange edges in increasing order of weight.
+
+2. **Select Edges Greedily**
