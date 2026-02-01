@@ -58,3 +58,5 @@ Total weight of MST: 19
 
 3. **Union-Find Structure**
    - Uses Disjoint Set to detect cycles efficiently.
+
+4. **Stop When MST is Complete**
