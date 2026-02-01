@@ -55,3 +55,5 @@ Total weight of MST: 19
 
 2. **Select Edges Greedily**
    - Add the smallest edge that does not form a cycle.
+
+3. **Union-Find Structure**
