@@ -57,3 +57,4 @@ Total weight of MST: 19
    - Add the smallest edge that does not form a cycle.
 
 3. **Union-Find Structure**
+   - Uses Disjoint Set to detect cycles efficiently.
