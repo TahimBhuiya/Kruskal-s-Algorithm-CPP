@@ -67,3 +67,5 @@ Total weight of MST: 19
 ## 🛠 How to Run
 
 ### 1️⃣ Using a local C++ compiler
+
+Save the code as `kruskal.cpp` and then compile/run:
