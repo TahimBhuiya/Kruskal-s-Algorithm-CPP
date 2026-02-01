@@ -60,3 +60,4 @@ Total weight of MST: 19
    - Uses Disjoint Set to detect cycles efficiently.
 
 4. **Stop When MST is Complete**
+   - MST contains exactly (V − 1) edges.
