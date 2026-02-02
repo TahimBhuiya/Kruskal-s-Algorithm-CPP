@@ -76,3 +76,5 @@ g++ kruskal.cpp -o kruskal
 ```
 
 ### 2️⃣ Using an online C++ compiler
+
+You can paste and run the code using:
