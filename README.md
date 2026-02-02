@@ -70,7 +70,7 @@ Total weight of MST: 19
 
 Save the code as `kruskal.cpp` and then compile/run:
 
-```
+```bash
 
 
 
