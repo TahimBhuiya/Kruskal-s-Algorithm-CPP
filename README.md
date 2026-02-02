@@ -72,7 +72,7 @@ Save the code as `kruskal.cpp` and then compile/run:
 
 ```bash
 g++ kruskal.cpp -o kruskal
-
+./kruskal
 
 
 
