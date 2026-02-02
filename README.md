@@ -74,3 +74,5 @@ Save the code as `kruskal.cpp` and then compile/run:
 g++ kruskal.cpp -o kruskal
 ./kruskal
 ```
+
+### 2️⃣ Using an online C++ compiler
